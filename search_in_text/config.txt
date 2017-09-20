@@ -1,0 +1,4 @@
+file_path=test.txt
+case_sensitivity=yes
+advanced_search=yes
+search_pattern=jwXqTU

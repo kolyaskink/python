@@ -1,0 +1,5 @@
+hostname=extranet.zylom.com
+ssl=yes
+url=.private/useradmin/
+user=kkolyaskin
+pass=119aS@3088

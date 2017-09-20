@@ -1,0 +1,3 @@
+url=https://extranet.zylom.com/people/index.php
+user=kkolyaskin
+pass=119aS@3088
